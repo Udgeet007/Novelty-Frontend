@@ -2,7 +2,7 @@ import React from 'react';
 
 const WhatsAppFloatButton = () => {
   // Replace with your actual WhatsApp number (with country code, no + or spaces)
-  const phoneNumber = "91-8707230250"; // Example: 919876543210 for India
+  const phoneNumber = "918707230250"; // Example: 919876543210 for India
   const message = "Hi! I'm interested in your clothing collection.";
   
   const handleWhatsAppClick = () => {
